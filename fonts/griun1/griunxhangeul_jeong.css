@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'griunxhangeul_jeong';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_jeong-rg.woff2') format('woff2');
+}

@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'griunxhangeul_ddurae';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_ddurae-rg.woff2') format('woff2');
+}

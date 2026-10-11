@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'griunxhangeul_ochungi.kim';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_ochungi.kim-rg.woff2') format('woff2');
+}

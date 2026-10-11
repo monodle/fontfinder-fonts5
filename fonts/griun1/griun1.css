@@ -1,0 +1,199 @@
+@font-face {
+  font-family: 'griun_semfafa';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_semfafa-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_seowonfont';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_seowonfont-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_shakshakshak';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_shakshakshak-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_sobokhee';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_sobokhee-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_solyfont';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_solyfont-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_songyang';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_songyang-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_yaongeommafont';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_yaongeommafont-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_yeeun';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_yeeun-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_yujuzzang';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_yujuzzang-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_yuridaggu';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_yuridaggu-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_aforeignhand';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_aforeignhand-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_banguri';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_banguri-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_bbangsim';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_bbangsim-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_cwshandwriting';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_cwshandwriting-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_dahl';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_dahl-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_ddurae';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_ddurae-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_equal';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_equal-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_fter';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_fter-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_gowoon';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_gowoon-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_jeong';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_jeong-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_min';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_min-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_ochungi.kim';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_ochungi.kim-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_sarangseureoun';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_sarangseureoun-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_shincat';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_shincat-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griunxhangeul_songlesongeulheullim';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griunxhangeul_songlesongeulheullim-rg.woff2') format('woff2');
+}

@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'griun_baenge';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_baenge-rg.woff2') format('woff2');
+}
